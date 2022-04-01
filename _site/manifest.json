@@ -1,0 +1,570 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/S542000/Documents/TopicDay/TopicOfTheDay",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Controllers.AccountController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Controllers.AccountController.html",
+          "hash": "OT1OEUHIbYmQpdktE+ItVRJ3TXk1TA7Rcd+ILhBKiSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Controllers.AdministrationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Controllers.AdministrationController.html",
+          "hash": "OB/DhRcEOmD3UqUf2LnPWXW6mBIcflYyPoJgGyc+9DI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Controllers.ErrorController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Controllers.ErrorController.html",
+          "hash": "s7AjzCkEKmHhHiqc15WEq8gY5QXyT8pK44chV/snsjI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Controllers.HomeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Controllers.HomeController.html",
+          "hash": "NaOzS3xDDF6s+X2972bM8jDBySGdsUQCNQSq/M2FiIQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Controllers.html",
+          "hash": "3l7cQ8e3eJhbtypJeo3kdLp5/x1oHLo7ncTPB5sarb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.Addingcliams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.Addingcliams.html",
+          "hash": "OWCIBtMwzlZZUVwy26FRRYb4XAFL4U92gD1MxKZfdYw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.Initial.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.Initial.html",
+          "hash": "as47Z37g7iK1NTAjl9Ui0uOYcCx5EYtc4VkKSpFhXAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.Intials.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.Intials.html",
+          "hash": "zklVFxo4PQyhabjIThdhgzSObX15Z9TOW53iMuW6FeY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.second.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.second.html",
+          "hash": "wZcbdkI9YwIv6FrledUeeQ6o5nx8E8/YttIGVjMO5Qc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.secondMig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.secondMig.html",
+          "hash": "9hxdRtUTQZY8ybisExfWzWgEPlt7psTZHyg6mEPL6s4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Migrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Migrations.html",
+          "hash": "kaNs6KSPKdftyQF703U9MO6yPg+daHDpOk/dd2h0QXs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.AppDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.AppDbContext.html",
+          "hash": "pmrt37hd0nNhBPip9qtb2TNBn1+e2wzd90Sk942J5pY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.ApplicationUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.ApplicationUser.html",
+          "hash": "iy/En9ALDahx77a/seZwlbbPQe9ViVJgRRMUdjq0Zps="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.Available.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.Available.html",
+          "hash": "9hiVUilCzqgeV2Vsyz76FuTG/9/XWumqZRPv2ODN2GA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.ClaimsStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.ClaimsStore.html",
+          "hash": "h+F6tAFBjzokF9iDlyTOP145wQ7wJ5QFuQIT2bRbxWU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.ErrorViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.ErrorViewModel.html",
+          "hash": "zsyo/mQJQ9/vj7DEQlZOauFv46OpyqnTr/idtRb85TE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.ITopicsRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.ITopicsRepository.html",
+          "hash": "junOfix+2NvTEG8SYVcTJhJripv/9IyENyIP1xHc4ns="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.MockTopicsRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.MockTopicsRepository.html",
+          "hash": "cV/OAhHUkPkhWEMjiqGrHHBs6FLWrgtajfK5cuDHNMc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.SQLTopicRepo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.SQLTopicRepo.html",
+          "hash": "gUjSn7kZsK0F07KMfEjkoPMRJkaq/LwBhtlwO+HvFA0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.Topics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.Topics.html",
+          "hash": "OyNrofH01c2EzXQ/QlyxB9KW8zYjMkWwskixgflHdrA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Models.html",
+          "hash": "BjB6UG7I9GmsPGFIlHkH1g+1IjYgQ7sRAX2sJpmuNJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Program.html",
+          "hash": "hwcZVoWobIhODoUwvTPJqsjX2PjoxfHFzpI6Fpagj8U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Startup.html",
+          "hash": "RrhnpUjZ+DQIpNv9Pn8pImptmQA4tKKZic158rkSS6U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Utilities.CreateRoleViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Utilities.CreateRoleViewModel.html",
+          "hash": "H00lKMgTpHH1HWg7ylNdS17UujBzGuRZ7+IELWHu/tI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Utilities.ValidEmailDomainAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Utilities.ValidEmailDomainAttribute.html",
+          "hash": "LwclTreXeDrtUEKmJd24V4wCB+D+mzcw1gtzTmP263Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.Utilities.html",
+          "hash": "1okcKj24eU5IZeDU7gBx//1bwtO8QTtRgNqOhJoSQ7I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.EditRoleViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.EditRoleViewModel.html",
+          "hash": "GrvOIYs4RR5kmAXWgR82HGdur2M6UyOim2sZM2wI10A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.EditUserViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.EditUserViewModel.html",
+          "hash": "usdF3WsVg+cajCWkmFdc4dow7oubfNx+BSztsqdj4uw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.LoginViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.LoginViewModel.html",
+          "hash": "FZ4/2Ra1gd0FDGs71zCijlhDbg+hiynbx2FRK9ovgZ0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.RegisterViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.RegisterViewModel.html",
+          "hash": "qruPUUVK8S3h63EQbWZxjoNebIxO6+czHyTKsBP8h88="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.TopicCreateViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.TopicCreateViewModel.html",
+          "hash": "vI2VZflWOiuG8Z8xLdrvhmsePrjFWQTAR/8ufKPCWzk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.UserClaim.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.UserClaim.html",
+          "hash": "/EBCVWD77AxsIC0Rgs4Llndbdeg/DPsYAhQe5/Hjqns="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.UserClaimsViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.UserClaimsViewModel.html",
+          "hash": "pxT+ygD1neB7bODT+aDa+ln4mN4R5DvNwV6e1HfVZqM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.UserRoleViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.UserRoleViewModel.html",
+          "hash": "ZdLpnw6OJMXWlx7TY1jKBYbLPJndFylYCnoCimqbatg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.UserRolesViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.UserRolesViewModel.html",
+          "hash": "EYJbXXjSy52/rVDdz0Eei7q1QClI6FyqfHexC82w49Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.ViewModels.html",
+          "hash": "iEePKMuljVOkCdBmPC3kq/7RB6gfB3WzG/yye/CHquM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TopicDay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TopicDay.html",
+          "hash": "vD689EofSm7Dtt41Em2E45YLmmJJr7fD+9hJ+zDmLSs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "X3NUxpqhfDw4T91hGvRg4n/n/pR+qa+ECxzhPKI1x9M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "xPEDgg2IXbm1vLtbdOxai/zkvw62jd7/BmbVEyL6iOQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "DRxm08W6qAJGsPt93vIgmBjMD7FWgQJUbGGnO4G+P30="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "g8RmX9VJCx2Y1lcELwZgsg4gsCbNMCNhqR/HI9fsF0U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 37,
+          "skipped_file_count": 24
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
